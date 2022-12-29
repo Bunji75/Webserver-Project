@@ -1,19 +1,19 @@
 TODOs
 
 1. Design
-    - Design homepage
+    - Design homepage X
         - Choose colour scheme X
-        - Choose font 
+        - Choose font X
         - Prepare basic labelled layout X
 
 2. Implement page layout
-    - Adding Navbar 
+    - Adding Navbar X
     - Adding links to pages
     - Adding placeholder text into text areas
     - Ensure correct scaling depending on screen size
     - Adding placeholder images into image spaces
 
 3. Add colours and styles
-    - Create css stylesheet
+    - Create css stylesheet X
     - Add colours
     - Add details to images and text
