@@ -20,3 +20,7 @@ body {
     height: 600px;
   }
 }
+
+#contentContainer{
+  background-color: #272727;
+}
